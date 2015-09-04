@@ -1,3 +1,7 @@
-# PUI2015 LABS
+# PUI2015_bturboli
 
-#### Bilguun Turboli
+Homework 1
+
+![Alt text](bashrc_bturboli.png)	
+![Alt text](setup_env.png)
+
