@@ -1,7 +1,5 @@
-# PUI2015_bturboli
+# gittest_bturboli
 
-Homework 1
+### Homework 1 - Assignment 1
 
-![Alt text](bashrc_bturboli.png)	
-![Alt text](setup_env.png)
 
